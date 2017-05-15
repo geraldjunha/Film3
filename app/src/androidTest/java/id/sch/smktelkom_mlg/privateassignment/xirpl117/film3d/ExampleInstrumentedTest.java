@@ -24,3 +24,4 @@ public class ExampleInstrumentedTest {
         assertEquals("id.sch.smktelkom_mlg.privateassignment.xirpl117.film3d", appContext.getPackageName());
     }
 }
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="favorit">
+        <item>Terbaik</item>
+        <item>Favorit</item>
+        <item>Ingin ditonton</item>
+        <item>Biasa Saja</item>
+        <item>Buruk Sekali</item>
+    </string-array>
+</resources>
