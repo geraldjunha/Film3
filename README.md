@@ -1,6 +1,6 @@
 # Film3D
 <h1> Identitas Pembuat</h1>
-<h4>Nama : Ocha Putri Perdana Prihatina
+<h4>Nama : M. Gerald Junhakristama
 <br/>Kelas/No Absen : XI RPL 1/25
 <br/>NIS : 4742/1461.070
 <br/>Angkatan : 24
