@@ -65,21 +65,6 @@ public class SecondActivity extends AppCompatActivity {
         mPostkey = getIntent().getExtras().getInt("blog_id");
 
         loadRecyclerViewData();
-//
-//        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-//        fab.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-////                Uri uri = Uri.parse(url); // missing 'http://' will cause crashed
-////
-////                Intent intent = new Intent(Intent.ACTION_VIEW, uri);
-////
-////                startActivity(intent);
-//
-//            }
-//
-//        });
-
 
         textViewJudul = (TextView) findViewById(R.id.textViewJudul);
         textViewTerbit = (TextView) findViewById(R.id.textViewTerbit);

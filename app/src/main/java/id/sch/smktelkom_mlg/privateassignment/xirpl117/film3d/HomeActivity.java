@@ -57,24 +57,6 @@ public class HomeActivity extends AppCompatActivity {
         bitmap.compress(Bitmap.CompressFormat.PNG, 100, stream);
         return stream.toByteArray();
     }
-//    private void fillData() {
-//        spinnerRating.setSelected(place.rate);
-//    }
-//    private void doRate() {
-//        String rate = spinnerRating.getSelectedItem().toString();
-//
-//        if (rate.isEmpty())
-//        {
-//        //    Snackbar.make(findViewById(R.id.spinnerRating), place.ra + " Terhapus", Snackbar.LENGTH_LONG)
-//        }
-//        else
-//        {
-//            if (isNew){
-//                place = new Place(rate);
-//                place.save();
-//            }
-//        }
-//    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -87,21 +69,6 @@ public class HomeActivity extends AppCompatActivity {
 
 
         loadRecyclerViewData();
-
-//        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-//        fab.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-////                Uri uri = Uri.parse(url); // missing 'http://' will cause crashed
-////
-////                Intent intent = new Intent(Intent.ACTION_VIEW, uri);
-////iQ1`
-////                startActivity(intent);
-//
-//            }
-//
-//        });
-
 
         textViewJudul = (TextView) findViewById(R.id.textViewJudul);
         textViewTerbit = (TextView) findViewById(R.id.textViewTerbit);

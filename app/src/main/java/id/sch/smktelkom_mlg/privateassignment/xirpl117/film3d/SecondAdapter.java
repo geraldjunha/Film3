@@ -56,7 +56,7 @@ public class SecondAdapter extends RecyclerView.Adapter<SecondAdapter.ViewHolder
 
             @Override
             public void onClick(View view) {
-                Toast.makeText(context, "Klik " + secondListItem.getJudul(), Toast.LENGTH_LONG).show();
+                Toast.makeText(context, "Memilih " + secondListItem.getJudul(), Toast.LENGTH_LONG).show();
                 Intent singleBlogIntent = new Intent(context, SecondActivity.class);
                 singleBlogIntent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                 singleBlogIntent.putExtra("blog_id", position);
