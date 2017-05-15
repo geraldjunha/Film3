@@ -8,7 +8,7 @@
 <h1>Alamat API yang digunakan pada Aplikasi</h4>
 <ul>
 <li>Alamat API https://api.themoviedb.org/3/discover/movie?with_genres=18&sort_by=vote_average.desc&vote_count.gte=10&api_key=e211cdab766a4317aaf48307c3b818ae</li>
-<li>Alamat API "https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=e211cdab766a4317aaf48307c3b818ae";</li>
+<li>Alamat API "https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=e211cdab766a4317aaf48307c3b818ae</li>
 </ul>
 <h1>Jenis Navigasi</h1>
 <p>Navigasi Drawer Dengan 3 Menu Pilihan</p>
