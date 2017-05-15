@@ -1,7 +1,7 @@
 # Film3D
 <h1> Identitas Pembuat</h1>
 <h4>Nama : M. Gerald Junhakristama
-<br/>Kelas/No Absen : XI RPL 1/25
+<br/>Kelas/No Absen : XI RPL 1/17
 <br/>NIS : 4742/1461.070
 <br/>Angkatan : 24
 <br/>Sekolah : SMK Telkom Malang</h2>
@@ -16,7 +16,7 @@
 <p>SugarORM</p>
 <h1>Deskripsi Singkat Aplikasi</h1>
 <p>Aplikasi Film3D ini digunakan untuk melihat list film-film yang sudah dirilis dengan menggunakan diskripsi dan gambar yang menarik untuk 
-dilihat, disini juga bisa memilih 3 pilihan yang ada di menu, ada juga untuk memberi peringkat dari deskripsi film. </p>
+dilihat, disini juga bisa memilih 3 pilihan yang ada di menu, ada juga menu untuk memberi peringkat dari deskripsi film. </p>
 <h1>Kelebihan Aplikasi</h1>
 <p> Film3D:
 <ul>
